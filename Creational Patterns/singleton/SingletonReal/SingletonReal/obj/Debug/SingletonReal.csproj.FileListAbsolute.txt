@@ -1,0 +1,7 @@
+C:\DesignPatterns\Creational Patterns\singleton\SingletonReal\SingletonReal\bin\Debug\SingletonReal.exe.config
+C:\DesignPatterns\Creational Patterns\singleton\SingletonReal\SingletonReal\bin\Debug\SingletonReal.exe
+C:\DesignPatterns\Creational Patterns\singleton\SingletonReal\SingletonReal\bin\Debug\SingletonReal.pdb
+C:\DesignPatterns\Creational Patterns\singleton\SingletonReal\SingletonReal\obj\Debug\SingletonReal.csprojAssemblyReference.cache
+C:\DesignPatterns\Creational Patterns\singleton\SingletonReal\SingletonReal\obj\Debug\SingletonReal.csproj.CoreCompileInputs.cache
+C:\DesignPatterns\Creational Patterns\singleton\SingletonReal\SingletonReal\obj\Debug\SingletonReal.exe
+C:\DesignPatterns\Creational Patterns\singleton\SingletonReal\SingletonReal\obj\Debug\SingletonReal.pdb

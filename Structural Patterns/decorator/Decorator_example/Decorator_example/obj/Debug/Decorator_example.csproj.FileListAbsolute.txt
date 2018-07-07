@@ -1,0 +1,7 @@
+C:\DesignPatterns\Structural Patterns\decorator\Decorator_example\Decorator_example\bin\Debug\Decorator_example.exe.config
+C:\DesignPatterns\Structural Patterns\decorator\Decorator_example\Decorator_example\bin\Debug\Decorator_example.exe
+C:\DesignPatterns\Structural Patterns\decorator\Decorator_example\Decorator_example\bin\Debug\Decorator_example.pdb
+C:\DesignPatterns\Structural Patterns\decorator\Decorator_example\Decorator_example\obj\Debug\Decorator_example.csprojAssemblyReference.cache
+C:\DesignPatterns\Structural Patterns\decorator\Decorator_example\Decorator_example\obj\Debug\Decorator_example.csproj.CoreCompileInputs.cache
+C:\DesignPatterns\Structural Patterns\decorator\Decorator_example\Decorator_example\obj\Debug\Decorator_example.exe
+C:\DesignPatterns\Structural Patterns\decorator\Decorator_example\Decorator_example\obj\Debug\Decorator_example.pdb

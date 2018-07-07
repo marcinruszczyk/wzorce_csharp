@@ -1,0 +1,7 @@
+c:\users\marcin\Source\Repos\DownloadStrategyChoice\DownloadStrategyChoice\bin\Debug\DownloadStrategyChoice.exe.config
+c:\users\marcin\Source\Repos\DownloadStrategyChoice\DownloadStrategyChoice\bin\Debug\DownloadStrategyChoice.exe
+c:\users\marcin\Source\Repos\DownloadStrategyChoice\DownloadStrategyChoice\bin\Debug\DownloadStrategyChoice.pdb
+c:\users\marcin\Source\Repos\DownloadStrategyChoice\DownloadStrategyChoice\obj\Debug\DownloadStrategyChoice.csproj.CoreCompileInputs.cache
+c:\users\marcin\Source\Repos\DownloadStrategyChoice\DownloadStrategyChoice\obj\Debug\DownloadStrategyChoice.exe
+c:\users\marcin\Source\Repos\DownloadStrategyChoice\DownloadStrategyChoice\obj\Debug\DownloadStrategyChoice.pdb
+C:\Users\Marcin\Source\Repos\DownloadStrategyChoice\DownloadStrategyChoice\obj\Debug\DownloadStrategyChoice.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Marcin\Source\Repos\ChainOfResposibility\ChainOfResposibility\bin\Debug\ChainOfResposibility.exe.config
+C:\Users\Marcin\Source\Repos\ChainOfResposibility\ChainOfResposibility\bin\Debug\ChainOfResposibility.exe
+C:\Users\Marcin\Source\Repos\ChainOfResposibility\ChainOfResposibility\bin\Debug\ChainOfResposibility.pdb
+C:\Users\Marcin\Source\Repos\ChainOfResposibility\ChainOfResposibility\obj\Debug\ChainOfResposibility.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\Source\Repos\ChainOfResposibility\ChainOfResposibility\obj\Debug\ChainOfResposibility.exe
+C:\Users\Marcin\Source\Repos\ChainOfResposibility\ChainOfResposibility\obj\Debug\ChainOfResposibility.pdb
+C:\Users\Marcin\Source\Repos\ChainOfResposibility\ChainOfResposibility\obj\Debug\ChainOfResposibility.csprojAssemblyReference.cache

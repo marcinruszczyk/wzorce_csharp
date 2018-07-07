@@ -1,0 +1,7 @@
+C:\DesignPatterns\Creational Patterns\singleton\Singelton\Singelton\bin\Debug\Singelton.exe.config
+C:\DesignPatterns\Creational Patterns\singleton\Singelton\Singelton\bin\Debug\Singelton.exe
+C:\DesignPatterns\Creational Patterns\singleton\Singelton\Singelton\bin\Debug\Singelton.pdb
+C:\DesignPatterns\Creational Patterns\singleton\Singelton\Singelton\obj\Debug\Singelton.csprojAssemblyReference.cache
+C:\DesignPatterns\Creational Patterns\singleton\Singelton\Singelton\obj\Debug\Singelton.csproj.CoreCompileInputs.cache
+C:\DesignPatterns\Creational Patterns\singleton\Singelton\Singelton\obj\Debug\Singelton.exe
+C:\DesignPatterns\Creational Patterns\singleton\Singelton\Singelton\obj\Debug\Singelton.pdb

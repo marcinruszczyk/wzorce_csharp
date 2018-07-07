@@ -1,0 +1,7 @@
+C:\DesignPatterns\Structural Patterns\facade\Facade\Facade\bin\Debug\Facade.exe.config
+C:\DesignPatterns\Structural Patterns\facade\Facade\Facade\bin\Debug\Facade.exe
+C:\DesignPatterns\Structural Patterns\facade\Facade\Facade\bin\Debug\Facade.pdb
+C:\DesignPatterns\Structural Patterns\facade\Facade\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
+C:\DesignPatterns\Structural Patterns\facade\Facade\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\DesignPatterns\Structural Patterns\facade\Facade\Facade\obj\Debug\Facade.exe
+C:\DesignPatterns\Structural Patterns\facade\Facade\Facade\obj\Debug\Facade.pdb

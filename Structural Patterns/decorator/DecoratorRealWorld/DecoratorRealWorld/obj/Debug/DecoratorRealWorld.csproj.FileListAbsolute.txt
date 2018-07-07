@@ -1,0 +1,7 @@
+C:\DesignPatterns\Structural Patterns\decorator\DecoratorRealWorld\DecoratorRealWorld\bin\Debug\DecoratorRealWorld.exe.config
+C:\DesignPatterns\Structural Patterns\decorator\DecoratorRealWorld\DecoratorRealWorld\bin\Debug\DecoratorRealWorld.exe
+C:\DesignPatterns\Structural Patterns\decorator\DecoratorRealWorld\DecoratorRealWorld\bin\Debug\DecoratorRealWorld.pdb
+C:\DesignPatterns\Structural Patterns\decorator\DecoratorRealWorld\DecoratorRealWorld\obj\Debug\DecoratorRealWorld.csprojAssemblyReference.cache
+C:\DesignPatterns\Structural Patterns\decorator\DecoratorRealWorld\DecoratorRealWorld\obj\Debug\DecoratorRealWorld.csproj.CoreCompileInputs.cache
+C:\DesignPatterns\Structural Patterns\decorator\DecoratorRealWorld\DecoratorRealWorld\obj\Debug\DecoratorRealWorld.exe
+C:\DesignPatterns\Structural Patterns\decorator\DecoratorRealWorld\DecoratorRealWorld\obj\Debug\DecoratorRealWorld.pdb
